@@ -15,3 +15,4 @@ File description:
 2.  Calculate Univariate KS and FDRs for All Variables.ipynb: jupyter notebook with python code written for Step 4
 3.  model.R: R code to build logistic regression, random forest, xgboost, and neural net models for Step 6
 4.  FDR @ 3% for RF Model.xlsx: Tables of FDR at 1%-20% for the best model selected (Random Forest Model with 400 trees and 8 variables sampled for splitting) on training, testing and out-of-time datasets
+5.  The Fraud Detection of Credit Card Transaction.pdf: detailed report
