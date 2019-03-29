@@ -1,6 +1,6 @@
 # FRAUD-DETECTION-ON-CREDIT-CARD-TRANSACTION
 
-Steps that we went through to generate the six supervised machine learning algorithms. The summary of the seven steps is as follow: 
+Seven steps that we went through to generate the six supervised machine learning algorithms are as following: 
 1.	Data cleaning, which fills in the necessary missing fields with reasonable numbers. 
 2.	Variable creation and Z-scaling. 371 new variables are created and Z-scaled. 
 3.	Training/testing/OOT. The entire dataset is split into training, testing and out-of-time (OOT) set. 
